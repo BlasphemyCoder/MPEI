@@ -1,0 +1,16 @@
+﻿*---A função de hash conseguiu o objectivo de espalhar as chaves/strings pelo array ?--*
+
+
+	
+Sim, podendo-se comprovar isso pela análise dos gráficos obtidos, onde se pode observar que na maioria se obteve 0 ou 1 colisões.
+
+Para além disto, analisando a média, conclui-se que existe cerca de uma strig por cada index do array.
+Por último, a variância, sendo bastante próxima da média, indica-nos que a quantidade de strings por posição não se encontra muito distante deste valor (valor médio)
+
+
+
+*---Temos de facto uma distribuição uniforme das chaves pelos ı́ndices do array?---*
+
+
+Sim, podemos observar isto pelos gráficos obtidos, onde o número de pontos acima de y=2 é bastante reduzido e quase todas as ordenadas assumem o valor de 1 ou 2.
+Ou seja, é verificável que existe uma distribuiçao uniforme das chaves pelos índices do array. 
