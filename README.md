@@ -23,5 +23,5 @@ Vasco Ramos
 Criação de uma solução utilizando Hashing, Contadores Estoćaticos e Bloom Filters para encontrar spam reviews num conjunto de reviews de jogos. Linguagem utilizada: **JAVA**.
 
 #### Contributors (only related to the project)
- - [Vasco Ramos](https://github.com/BlasphemyCoder)
- - [Diogo Silva](https://github.com/HerouFenix)
+ * **Vasco Ramos** - [vascoalramos](https://github.com/vascoalramos)
+ * **Diogo Silva** - [HerouFenix](https://github.com/HerouFenix)
