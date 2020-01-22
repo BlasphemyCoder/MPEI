@@ -1,6 +1,6 @@
 # Probability Methods for Informatics Engineering
 
-## Probabilities
+## Table of Contents
 - Aula 1 - Probabilidades
 - Aula 2 - Probabilidades Condicionais
 - Aula 3 - Variáveis aleatórias e Distribuições
