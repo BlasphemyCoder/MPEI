@@ -1,13 +1,6 @@
 # Probability Methods for Informatics Engineering
 
-Licenciatura em Engenharia Informática
-
-Universidade de Aveiro
-
-Vasco Ramos
-
-----------------
-#### Métodos Probabilísticos para Engenharia Informática 2018/2019
+## Probabilities
 - Aula 1 - Probabilidades
 - Aula 2 - Probabilidades Condicionais
 - Aula 3 - Variáveis aleatórias e Distribuições
@@ -18,10 +11,9 @@ Vasco Ramos
 - Aula 8 - Cadeias de Markov
 - Projeto - Aplicação de conceitos numa solução integrada
 
------------------
-#### Detalhes sobre o Projeto
+## Detalhes sobre o Projeto
 Criação de uma solução utilizando Hashing, Contadores Estoćaticos e Bloom Filters para encontrar spam reviews num conjunto de reviews de jogos. Linguagem utilizada: **JAVA**.
 
-#### Contributors (only related to the project)
+## Contributors (only related to the project)
  * **Vasco Ramos** - [vascoalramos](https://github.com/vascoalramos)
  * **Diogo Silva** - [HerouFenix](https://github.com/HerouFenix)
